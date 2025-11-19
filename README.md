@@ -24,7 +24,8 @@ I constantly explore new tools and technologies to optimize workflows and delive
 - Azure DevOps  
 - ARM Templates
 - Azure VM and Storage
--  
+-Azure networking
+-Troubleshooting
 
 ### **Containers & Orchestration**
 - Docker  
