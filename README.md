@@ -1,5 +1,6 @@
-# Hi, I'm Lukman Ajumoko #
-DevOps Engineer | Cloud | Automation | CI/CD | Infrastructure as Code
+# Hi, I'm Lukman Ajumoko 👋  
+DevOps Engineer | Cloud | Automation | CI/CD | Infrastructure as Code  
+
 ---
 
 ## 🚀 About Me
@@ -11,6 +12,7 @@ My work is driven by:
 - Deployment automation & environment management  
 - Container orchestration with Kubernetes  
 - Scalable cloud architecture (Azure-focused)  
+- Robust monitoring, observability, and proactive alerting  
 - Improving developer experience and system reliability  
 
 I constantly explore new tools and technologies to optimize workflows and deliver resilient systems.
@@ -22,18 +24,23 @@ I constantly explore new tools and technologies to optimize workflows and delive
 ### **Cloud & DevOps**
 - Azure  
 - Azure DevOps  
-- ARM Templates
-- Azure VM and Storage
--Azure networking
--Troubleshooting
+- ARM Templates  
+- Azure VMs & Storage  
+- Azure Networking  
+- Troubleshooting & Support  
 
 ### **Containers & Orchestration**
 - Docker  
 - Kubernetes  
 
 ### **Infrastructure as Code**
-- Terraform
-- ARM Template
+- Terraform  
+- ARM Templates  
+
+### **Monitoring & Alerting**
+- Prometheus  
+- Grafana  
+- PagerDuty  
 
 ### **Operating Systems**
 - Linux  
@@ -58,6 +65,9 @@ Hands-on containerization workflows with Docker images, Kubernetes manifests, an
 ### 🔹 **CI/CD Pipelines (Azure DevOps / GitHub Actions)**
 Automated build, test, and deployment pipelines with environment approvals, secrets management, and deployment gates.
 
+### 🔹 **Monitoring & Observability Setup**
+End-to-end monitoring environment using **Prometheus** and **Grafana**, integrated with **PagerDuty** for alerting and incident response.
+
 > More projects coming soon — stay tuned!
 
 ---
@@ -71,4 +81,4 @@ If you're interested in cloud engineering, DevOps automation, or collaboration o
 ---
 
 ⭐ **Thanks for visiting my GitHub!**  
-_I'm always learning and building ._
+_I'm always learning and building._  
