@@ -1,4 +1,4 @@
-# Hi, I'm Lukman Ajumoko 👋  
+# Hi, I'm Lukman Ajumoko   
 DevOps Engineer | Cloud | Automation | CI/CD | Infrastructure as Code  
 
 ---
